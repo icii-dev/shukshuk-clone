@@ -1,0 +1,4 @@
+export default {
+    'USER_ADDRESS_TYPE_HOME': 'HOME',
+    'USER_ADDRESS_TYPE_COMPANY': 'COMPANY',
+}

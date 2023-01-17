@@ -1,0 +1,15 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Artesaos\SEOTools\Traits\SEOTools;
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+use Illuminate\Foundation\Bus\DispatchesJobs;
+use Illuminate\Foundation\Validation\ValidatesRequests;
+use Illuminate\Routing\Controller as BaseController;
+
+class SellerController extends BaseController
+{
+    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+    use SEOTools;
+}

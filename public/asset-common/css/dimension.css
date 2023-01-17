@@ -1,0 +1,91 @@
+.mb-2{
+    margin-bottom: 32px !important;
+}
+.mb-8px{
+    margin-bottom: 8px;
+}
+.mb-30px{
+    margin-bottom: 30px;
+}
+.mt-8px{
+    margin-top: 8px;
+}
+.mt-12px{
+    margin-top: 12px;
+}
+.mt-16px{
+    margin-top: 16px;
+}
+.mt-20px{
+    margin-top: 20px;
+}
+.mt-24px{
+    margin-top: 24px;
+}
+.mt-32px{
+    margin-top: 32px;
+}
+.mb-23px{
+    margin-bottom: 23px;
+}
+.ml-8px{
+    margin-left: 8px;
+}
+.ml-12px{
+    margin-left: 12px;
+}
+.ml-16px{
+    margin-left: 16px;
+}
+.mr-8px{
+    margin-right: 8px;
+}
+.mr-12px{
+    margin-right: 12px;
+}
+.mr-16px{
+    margin-right: 16px;
+}
+.mr-32px {
+    margin-right: 32px;
+}
+.h-48px{
+    height: 48px !important;
+}
+
+.ml-8px{
+    margin-left: 8px;
+}
+.ml-16px{
+    margin-left: 16px;
+}
+.ml-32px{
+    margin-left: 32px;
+}
+.p-none{
+    padding: 0px;
+}
+.p-8px{
+    padding: 8px;
+}
+
+.ptb-8px{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.p-16px{
+    padding: 16px;
+}
+
+.p-10px {
+    padding: 10px;
+}
+
+.w-200px{
+    width: 200px;
+}
+
+.mh .dropdown-menu {
+    max-height: 400px;
+}

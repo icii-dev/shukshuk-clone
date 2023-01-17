@@ -1,0 +1,9 @@
+<p>
+    Name
+    <span>{{$userAddress->recipient_name}}</span>
+    <p>{{$userAddress->addresses}}</p>
+    <p>{{$userAddress->phone}}</p>
+    <p>Province</p>
+    <p>city</p>
+    <p>district</p>
+</p>
